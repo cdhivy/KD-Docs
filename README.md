@@ -1,5 +1,7 @@
 # A List of Selfhosted Apps
 
+## [Technology News](https://kd.ms)
+
 Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
@@ -1736,3 +1738,5 @@ The list of authors can be found in [AUTHORS.md](AUTHORS.md).
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+
+## [Technology News](https://kd.ms)  [Home](https://docs.kd.ms)
