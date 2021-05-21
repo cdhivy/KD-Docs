@@ -1,4 +1,3 @@
-# KD Docs
 # A List of Selfhosted Apps
 
 Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
